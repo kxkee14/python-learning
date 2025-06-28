@@ -1,4 +1,5 @@
-![pythoncorrection](https://github.com/user-attachments/assets/0a8fc2fb-b195-41b4-9dc2-afc6667ea7e4)
+
+![Uploading pythoncorrection.png…]()
 
 i think the guy in the youtube video whose showing me how to code made a mistake
 there is no "elif" function for the C Grade. As you can see in his code, it would be
