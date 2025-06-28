@@ -9,3 +9,10 @@ in the picture above, i added my correction compared to his code.
 
 please correct me if im wrong, im new at learning python
 thank you
+
+
+#scores 98 or average grade A
+#score 80-89 grade B
+#score 70-79 grade C
+#score 60-69 grade D
+#scores below 60 Grade F
